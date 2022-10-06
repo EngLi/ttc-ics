@@ -8,3 +8,10 @@ Workflow:
 4. Calculate the average value of Base CVSS v2 and Exploitability CVSS v3 for the ICS product type and category of vulnerablity as found in sheet  "Mitre ICS ATT&CK Techniques".
 5. The last parameter that needs to be calculated in the MTBV, an example is provided in sheet "MTBV Example".
 6. Populate the sheet "Estimate ICS-TTC" with the 5 calculated parameters to estimate the TTC-ICS values.
+
+**References:**
+
+
+ICS Vulnerability dataset: R.J. Thomas and T. Chothia. (2020) "Learning from Vulnerabilities - Categorising, Understanding and Detecting Weaknesses in Industrial Control Systems" in: Katsikas S. et al. (eds) Computer Security. CyberICPS 2020. Lecture Notes in Computer Science. Springer, Cham. (https://uob-ritics.github.io/learning-from-vulnerabilities/) 
+
+MITRE ATT&CK ICS Techniques (https://attack.mitre.org/techniques/ics/)
